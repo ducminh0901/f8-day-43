@@ -12,7 +12,7 @@ import RenderPropsDemo from "./pages/RenderPropsDemo";
 
 export default function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/f8-day-43">
             <Routes>
                 <Route
                     path="/"
