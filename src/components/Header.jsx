@@ -16,6 +16,8 @@ export default function Header() {
                 <>
                     <Link to="/login">Sign In</Link> |{" "}
                     <Link to="/register">Sign Up</Link>
+                    <Link to="/hoc">HOC Demo</Link>
+                    <Link to="/render-props">Render Props Demo</Link>
                 </>
             )}
         </header>
